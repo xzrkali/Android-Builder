@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi9KernelPoweredBySeparate",
-      "repo": "https://github.com/Separatee/AllinOneKernel",
-      "branch": "main",
-      "device": "cepheus",
-      "defconfig": "cepheus_defconfig"
+      "name": "Xiaomi6",
+      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
+      "branch": "lineage-17.1",
+      "device": "sagit",
+      "defconfig": "sagit_defconfig"
     },
     "toolchains": [
       {
